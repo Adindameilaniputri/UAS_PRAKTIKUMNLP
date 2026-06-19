@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "content": "pemmobile",
+    "created_at": "2026-06-17T23:22:29"
+  },
+  {
+    "id": 2,
+    "content": "KAMI KULIAH HARI SENIN SAMPAI JUMAT",
+    "created_at": "2026-06-17T23:25:24"
+  },
+  {
+    "id": 3,
+    "content": "TUGAS KAMI SANGAT BANYAK",
+    "created_at": "2026-06-17T23:25:41"
+  },
+  {
+    "id": 5,
+    "content": "Catatan: besok kuliah hari Kamis masuk matakuliah srwe.",
+    "created_at": "2026-06-18T00:19:54"
+  },
+  {
+    "id": 6,
+    "content": "Besok praktikum SREW - Masuk matakuliah srwe besok kuliah hari Kamis",
+    "created_at": "2026-06-19T00:47:41"
+  },
+  {
+    "id": 7,
+    "content": "Besok deadline tugas praktikum NLP",
+    "created_at": "2026-06-19T17:24:41"
+  }
+]
